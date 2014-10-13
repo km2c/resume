@@ -1,0 +1,98 @@
+Kirk McCutcheon
+(614) 989-3924
+http://km2c.com
+
+/////////////////////
+//  Experience
+/////////////////////
+
+Resource
+Senior Developer    June 2012 ~ Present
+
+While working at Resource I have had the privilege to work on some very exciting projects both internally and externally. My main focus has been leading front-end development using HTML, CSS, Javascript, PHP and Node.js for clients such as Victoria’s Secret, CVS, Huntington and Petsmart. One of the projects that I am most proud of is the World's Best Sport Bra page built for VS Sport. On this project I was the tech lead and was responsible for leading development and integration with the client platform. Another project I am proud of is a node.js based application for auditing client products on third party eCommerce sites. The application allows clients to survey their resellers and monitor consistency between them. Recently I have been transitioning into a development manager position, which allows me to drive technology discussions earlier in the creative process and manage resources to complete the project.
+
+
+inServ Worldwide
+Senior Interactive Developer    January 2011 ~ June 2012
+
+While working at inServ, I led the development of numerous websites, web based mobile application, iPad sales detailing aids, Email marketing campaigns, CMS based intranet sites and many custom database backed sites. Some of the clients I worked with included Mylan, Eli Lilly, Endo Pharmaceuticals, i3, Avanir Pharmaceuticals and Amylin Pharmaceuticals to name a few.
+
+
+Affiliated Computer Services
+Print Operations Lead Technician/IT Support October 2007 ~ December 2010
+
+•   Performed hardware, software, network upgrades/installs
+•   Implemented system security and configurations
+•   Provided IT support, software and hardware configuration
+•   Developed and maintained supply, software vendor relationships.
+•   Responsible for new site/contract implementation including setting up a new check printing facility, network of servers and writing scripts to automate tasks
+•   Maintained procedural documents for all print systems/servers and print applications
+•   Documented design and postscript development letters and checks.
+
+
+Consultant Web Development/Server Administration
+Consultant  December 2006 ~ Present
+
+•   Design Websites from concept to coding
+•   Manage and setup web hosting servers using LAMP and LEMP configurations
+•   Integrate designs into PHP base CMS's like Wordpress and Drupal
+•   Participate in open source project communities to better the software
+•   Maintain client relationships
+•   Stay up to date on current web and server technologies
+
+
+
+/////////////////////
+//  Key Skills
+////////////////////
+Front-end
+Development
+Responsive
+Agile
+Scrum
+Architecture
+Project Lead
+Managing
+Database
+
+/////////////////////
+//  Software
+/////////////////////
+SublimeText
+zsh
+MS Office
+SQLPro
+Photoshop
+Jira
+Bamboo
+Stash
+
+/////////////////////
+//  Web Technology
+/////////////////////
+HTML
+CSS
+SCSS
+Compass
+Javascript
+jQuery
+Node.js
+git
+Ruby
+Rails
+Sinatra
+Grunt
+Gulp    Bootstrap
+Foundation
+PHP
+MySQL
+Apache
+nginx
+Passenger
+Backbone
+Angular
+Polymer
+Haml
+Handlebars
+JSP
+

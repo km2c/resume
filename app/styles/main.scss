@@ -90,11 +90,11 @@ p,ul {
             a, a[href^=tel] {
                 color: #444;
                 text-decoration: none;
-                -webkit-transition: all .3s ease-in;
-                -moz-transition: all .3s ease-in;
-                -o-transition: all .3s ease-in;
-                -ms-transition: all .3s ease-in;
-                transition: all .3s ease-in;
+                // -webkit-transition: all .3s ease-in;
+                // -moz-transition: all .3s ease-in;
+                // -o-transition: all .3s ease-in;
+                // -ms-transition: all .3s ease-in;
+                // transition: all .3s ease-in;
                 &:hover {
                     color: $main-color;
                 }
