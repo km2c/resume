@@ -5,7 +5,7 @@ var km2c = {
         window.open(link, '_blank');
     },
     mailMe: function(){
-        var emailAddress = ['kirk', '@', 'km2c.com'].join(''),
+        var emailAddress = ['kirkmccutcheon', '@', 'gmail.com'].join(''),
             emailElement = document.getElementById('email');
         emailElement.innerHTML = emailAddress;
         emailElement.setAttribute('href', 'mailto:' +  emailAddress);

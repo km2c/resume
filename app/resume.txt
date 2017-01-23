@@ -8,7 +8,7 @@ http://km2c.com
 //  Personal Profile
 /////////////////////
 
-Engineering Manager specializing in leading and building dynamic agile teams that create full-stack solutions using all of the latest tools and techniques. I enable teams to perform at their highest level and enjoy the work that they do.
+Engineering Manager specializing in leading and building dynamic agile teams that create full-stack solutions using all of the latest tools and techniques. I enable teams to perform at their highest level while enjoying the work that they do.
 
 
 /////////////////////
@@ -18,7 +18,7 @@ Engineering Manager specializing in leading and building dynamic agile teams tha
 Express
 Manager, Web Development   October 2014 - January 2017
 
-While at Express I led a dynamic team of e-commerce developers focusing on Front-end, ATG and Adobe experience manager. There were many large projects that my teams implemented including the rebuild of the product detail page using react and graphql for api aggregation.
+While at Express I led a dynamic team of e-commerce developers focusing on Front-end, ATG and Adobe experience manager. There were many large projects that my teams implemented including the rebuild of the Express.com e-commerce product detail page using react and graphql for api aggregation.
 
 •   Build and mentor an agile development team
 •   Work with cross disciplines to set scope and create user stories
@@ -30,9 +30,9 @@ While at Express I led a dynamic team of e-commerce developers focusing on Front
 
 
 Resource
-Senior Developer    June 2012 ~ Present
+Senior Developer    June 2012 ~ October 2014
 
-While working at Resource I have had the privilege to work on some very exciting projects both internally and externally. My main focus has been leading front-end development using HTML, CSS, Javascript, PHP and Node.js for clients such as Victoria’s Secret, CVS, Huntington and Petsmart. One of the projects that I am most proud of is the World's Best Sport Bra page built for VS Sport. On this project I was the tech lead and was responsible for leading development and integration with the client platform. Another project I am proud of is a node.js based application for auditing client products on third party eCommerce sites. The application allows clients to survey their resellers and monitor consistency between them. Recently I have been transitioning into a development manager position, which allows me to drive technology discussions earlier in the creative process and manage resources to complete the project.
+While working at Resource I had the privilege to work on some very exciting projects both internally and externally. My main focus has been leading front-end development using HTML, CSS, Javascript, PHP and Node.js for clients such as Victoria’s Secret, CVS, Huntington and Petsmart. One of the projects that I am most proud of is the World's Best Sport Bra page built for VS Sport. On this project I was the tech lead and was responsible for leading development and integration with the client platform. Another project I am proud of is a node.js based application for auditing client products on third party eCommerce sites. The application allowed clients to survey their resellers and monitor consistency between them. Recently I have been transitioning into a development manager position, which allowed me to drive technology discussions earlier in the creative process and manage resources to complete the project.
 
 
 inServ Worldwide
