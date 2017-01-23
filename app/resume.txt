@@ -1,10 +1,33 @@
 Kirk McCutcheon
+Manager, Software Engineering
+kirkmccutcheon@gmail.com
 (614) 989-3924
 http://km2c.com
 
 /////////////////////
+//  Personal Profile
+/////////////////////
+
+Engineering Manager specializing in leading and building dynamic agile teams that create full-stack solutions using all of the latest tools and techniques. I enable teams to perform at their highest level and enjoy the work that they do.
+
+
+/////////////////////
 //  Experience
 /////////////////////
+
+Express
+Manager, Web Development   October 2014 - January 2017
+
+While at Express I led a dynamic team of e-commerce developers focusing on Front-end, ATG and Adobe experience manager. There were many large projects that my teams implemented including the rebuild of the product detail page using react and graphql for api aggregation.
+
+•   Build and mentor an agile development team
+•   Work with cross disciplines to set scope and create user stories
+•   Sprint planning and estimation
+•   Manage project/application releases
+•   Work with vendors to identify opportunities for improvement
+•   Work with senior leadership to define engineering roadmap
+•   Identify and remove project blockers
+
 
 Resource
 Senior Developer    June 2012 ~ Present
@@ -72,27 +95,35 @@ Stash
 /////////////////////
 HTML
 CSS
-SCSS
+SASS/SCSS
 Compass
+LESS
+Grunt/Gulp
 Javascript
 jQuery
-Node.js
-git
+Node JS
+React
+Apollo/GraphQL
+Redux
+Backbone
+Sails js
+Git
 Ruby
 Rails
-Sinatra
-Grunt
-Gulp    Bootstrap
-Foundation
+Python
 PHP
 MySQL
+JSP
 Apache
 nginx
 Passenger
-Backbone
+Bootstrap
+Foundation
 Angular
 Polymer
-Haml
-Handlebars
-JSP
+Hiroku
+AWS
+AEM/CQ
+Test & Target
+DTM/Signal
 
