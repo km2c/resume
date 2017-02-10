@@ -20,13 +20,13 @@ Manager, Web Development   October 2014 - January 2017
 
 While at Express I led a dynamic team of e-commerce developers focusing on Front-end, ATG and Adobe experience manager. There were many large projects that my teams implemented including the rebuild of the Express.com e-commerce product detail page using react and graphql for api aggregation.
 
-•   Build and mentor an agile development team
-•   Work with cross disciplines to set scope and create user stories
-•   Sprint planning and estimation
-•   Manage project/application releases
-•   Work with vendors to identify opportunities for improvement
-•   Work with senior leadership to define engineering roadmap
-•   Identify and remove project blockers
+*  Build and mentor an agile development team
+*  Work with cross disciplines to set scope and create user stories
+*  Sprint planning and estimation
+*  Manage project/application releases
+*  Work with vendors to identify opportunities for improvement
+*  Work with senior leadership to define engineering roadmap
+*  Identify and remove project blockers
 
 
 Resource
@@ -44,32 +44,31 @@ While working at inServ, I led the development of numerous websites, web based m
 Affiliated Computer Services
 Print Operations Lead Technician/IT Support October 2007 ~ December 2010
 
-•   Performed hardware, software, network upgrades/installs
-•   Implemented system security and configurations
-•   Provided IT support, software and hardware configuration
-•   Developed and maintained supply, software vendor relationships.
-•   Responsible for new site/contract implementation including setting up a new check printing facility, network of servers and writing scripts to automate tasks
-•   Maintained procedural documents for all print systems/servers and print applications
-•   Documented design and postscript development letters and checks.
+*  Performed hardware, software, network upgrades/installs
+*  Implemented system security and configurations
+*  Provided IT support, software and hardware configuration
+*  Developed and maintained supply, software vendor relationships.
+*  Responsible for new site/contract implementation including setting up a new check printing facility, network of servers *d writing scripts to automate tasks
+*  Maintained procedural documents for all print systems/servers and print applications
+*  Documented design and postscript development letters and checks.
 
 
 Consultant Web Development/Server Administration
 Consultant  December 2006 ~ Present
 
-•   Design Websites from concept to coding
-•   Manage and setup web hosting servers using LAMP and LEMP configurations
-•   Integrate designs into PHP base CMS's like Wordpress and Drupal
-•   Participate in open source project communities to better the software
-•   Maintain client relationships
-•   Stay up to date on current web and server technologies
+*  Design Websites from concept to coding
+*  Manage and setup web hosting servers using LAMP and LEMP configurations
+*  Integrate designs into PHP base CMS's like Wordpress and Drupal
+*  Participate in open source project communities to better the software
+*  Maintain client relationships
+*  Stay up to date on current web and server technologies
 
 
 
 /////////////////////
 //  Key Skills
 ////////////////////
-Front-end
-Development
+Front-end Development
 Responsive
 Agile
 Scrum
@@ -99,6 +98,8 @@ SASS/SCSS
 Compass
 LESS
 Grunt/Gulp
+Webpack
+Bable
 Javascript
 jQuery
 Node JS
@@ -126,4 +127,8 @@ AWS
 AEM/CQ
 Test & Target
 DTM/Signal
+Vagrant
+Docker
+Akamai
+New Relic
 
