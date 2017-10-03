@@ -8,12 +8,25 @@ http://km2c.com
 //  Personal Profile
 /////////////////////
 
-Engineering Manager specializing in leading and building dynamic agile teams that create full-stack solutions using all of the latest tools and techniques. I enable teams to perform at their highest level while enjoying the work that they do.
+Engineering Manager specializing in leading and building dynamic agile teams that produce solid solutions to creative problems. I enable teams to perform at their highest level while enjoying the work that they do.
 
 
 /////////////////////
 //  Experience
 /////////////////////
+
+Clarivoy
+Senior Softwar Engineer Feburary 2017 ~ Present
+
+While working at Clarivoy I have had the opportunity to lead the develpment of many data analytics and sales attribution initiatives as well as develop new analytics dashboard features using both React and Angular. 
+
+*  Sprint planning and estimation
+*  New feature development and testing
+*  Develop tools and applications to speed big data processing and analytics
+*  Architect API’s to support data visualization applications
+*  Build proof of concept applications
+*  Integrate 3rd party API’s to support anonymous sales attribution 
+
 
 Express
 Manager, Web Development   October 2014 - January 2017
@@ -68,23 +81,25 @@ Consultant  December 2006 ~ Present
 /////////////////////
 //  Key Skills
 ////////////////////
-Front-end Development
-Responsive
+Managing
 Agile
 Scrum
 Architecture
 Project Lead
-Managing
+Front-end Development
+Responsive
 Database
 
 /////////////////////
 //  Software
 /////////////////////
-SublimeText
+VS Code
 zsh
 MS Office
 SQLPro
 Photoshop
+Sketch
+Confluence
 Jira
 Bamboo
 Stash
@@ -92,43 +107,33 @@ Stash
 /////////////////////
 //  Web Technology
 /////////////////////
+Javascript
+React
+Apollo/GraphQl
+Node.js
+Express
+Redux/Mobx
+Webpack
+Postgres
+Angular
+Webpack
 HTML
 CSS
-SASS/SCSS
-Compass
+SCSS
 LESS
-Grunt/Gulp
-Webpack
-Bable
-Javascript
-jQuery
-Node JS
-React
-Apollo/GraphQL
-Redux
-Backbone
-Sails js
-Git
-Ruby
-Rails
-Python
+Material UI
+Bootstrap
+Foundation
 PHP
 MySQL
 JSP
 Apache
 nginx
-Passenger
-Bootstrap
-Foundation
-Angular
-Polymer
-Hiroku
 AWS
 AEM/CQ
-Test & Target
 DTM/Signal
-Vagrant
-Docker
-Akamai
-New Relic
+Python
+Flask
+Test & Target
+Google App Engine
 
